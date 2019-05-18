@@ -1,0 +1,14 @@
+code --install-extension chris-noring.node-snippets
+code --install-extension dbaeumer.jshint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension felixfbecker.php-debug
+code --install-extension felixfbecker.php-intellisense
+code --install-extension felixfbecker.php-pack
+code --install-extension formulahendry.auto-close-tag
+code --install-extension HookyQR.beautify
+code --install-extension ms-mssql.mssql
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension PKief.material-icon-theme
+code --install-extension formulahendry.vscode-mysql
