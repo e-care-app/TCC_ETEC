@@ -19,7 +19,6 @@
                     <legend> &nbsp; &nbsp; &nbsp;Alergias</legend>
                     <form name="frmcadastrar" method="post" action="">
                         <p><strong>Por favor preencha os dados abaixo:</strong></p>
-
                         <div class="row">
                             <div class="col-4">
                                 <label> Medicamentos: </label>
@@ -28,7 +27,6 @@
 
                             </div>
                         </div>
-
                         <div class="row">
                             <div class="col-4">
                                 <label> Alimentos: </label>
@@ -36,7 +34,6 @@
                                 <input type="text" class="form-control" name="celular" size=12 id="celular" placeholder=" Alimentos" />
                             </div>
                         </div>
-
                         <div class="row">
                             <div class="col-4">
                                 <label> Outras: </label>
@@ -44,7 +41,6 @@
                                 <input type="text" class="form-control" name="celular" size=12 id="celular" placeholder=" Outras" />
                             </div>
                         </div>
-
                        <br>
                         <div class="row">
                             <div class="col-lg-12 col-md-12 col-sm-12">
